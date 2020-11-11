@@ -38,12 +38,7 @@ function clickTransit()
 			"lastName": lastName
 		},
 		dataType: "json",
-	}).fail(function(response) {
-		console.log('fail');
-	}).done(function(response) {
-			console.log('success');
-			console.log(response);
-		});
+	});
 }
 
 function changeTextSize(newSize)
@@ -61,8 +56,6 @@ function main()
 
 	document.body.appendChild(button);
 
-	console.log(button);
-	//button.addEventListener("click", clickTransit);
 	$(button).on("click", clickTransit);
 
 	//           0         1 		2			3			4		5
