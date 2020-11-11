@@ -49,8 +49,15 @@ function changeTextSize(newSize)
 	p.style.fontSize = newSize + "px" + 1;
 }
 
+function sayHello()
+{
+	//TODO: Передать привет от всех!
+	console.log("Привет от Александра!");
+}
+
 function main()
 {
+	sayHello();
 	let helloH1 = document.getElementById("hello");
 
 	let button = document.createElement("button");
