@@ -58,11 +58,9 @@ function sayHello()
 	console.log("Привет от albert-garipov");
 
 	console.log("Привет от EvgenyShevelev");
-<<<<<<< HEAD
-	console.log("Привет от Дмитрий");
-=======
 
->>>>>>> origin/develop
+	console.log("Привет от Дмитрия");
+
 }
 
 function main()
