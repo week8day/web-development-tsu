@@ -67,6 +67,7 @@ function sayHello()
 	console.log("Привет от albert-garipov");
 
 	console.log("Привет от EvgenyShevelev");
+	console.log("Есть Казанские?))");
 
 }
 
