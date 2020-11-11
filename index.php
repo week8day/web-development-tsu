@@ -35,10 +35,14 @@
 		<li><a href="/github/Irina72-creator">Ира)</a></li>
 		<li><a href="/github/marinaveretennikova/index.html">Марина</a></li>
 		<li><a href="/github/elenakolentsova">Елена</a></li>
-		<li><a href="/github/Lihoradka/index.html>Мария</a></li>
+		<li><a href="/github/Lihoradka/index.html">Мария</a></li>
 		<li><a href="/github/IvanShkunov">Иван</a></li>
+<<<<<<< HEAD
 		<li><a href="/github/DmitriyWW">Дмитрий мл</a></li>
 		<li><a href="/github/KPolechka">Полина Уфа</a></li>
+=======
+		<li><a href="/www/web-development-tsu/github/DmitriyWW">Дмитрий мл</a></li>
+>>>>>>> d87140324f3781014a0fc7fb8f27e58eed0ae6d8
 
 	</ul>
 	<ul>
