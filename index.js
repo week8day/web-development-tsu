@@ -1,5 +1,4 @@
 $(function() {
-	console.log("jQuery is ready!");
 
 let interval;
 
@@ -20,7 +19,6 @@ function printRandom()
 
 function clickRandom()
 {
-	console.log("Кнопка нажата, интервал остановлен");
 	clearInterval(interval);
 }
 
@@ -30,9 +28,6 @@ function clickTransit()
 
 	let name = $(".name-field").val();
 	let lastName = $(".lastname-field").val();
-
-	console.log(name);
-	console.log(lastName);
 
 	$.ajax({
 		url: "http://web-site/echo.php",
