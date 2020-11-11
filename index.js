@@ -97,6 +97,7 @@ function sayHello()
 	console.log("Привет из солнечной Чувашии");
 
 	console.log("Привет от Дмитрия");
+	console.log("Привет от Елыны");
 
 
 	console.log("Привет от Марины!");
