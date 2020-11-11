@@ -94,6 +94,8 @@ function sayHello()
 
 	console.log("Привет от Дмитрия");
 
+	console.log("Привет от MrG-Vladimir");
+
 
 }
 function main()
