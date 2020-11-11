@@ -49,8 +49,24 @@ function changeTextSize(newSize)
 	p.style.fontSize = newSize + "px" + 1;
 }
 
+function sayHello()
+{
+	//TODO: Передать привет от всех!
+	console.log("Привет от Александра!");
+
+	console.log("Привет из Белгорода!");
+
+	console.log("Привет от Un-R");
+
+	console.log("Привет от albert-garipov");
+
+	console.log("Привет от EvgenyShevelev");
+
+}
+
 function main()
 {
+	sayHello();
 	let helloH1 = document.getElementById("hello");
 
 	let button = document.createElement("button");
