@@ -58,6 +58,10 @@ function sayHello()
 
 	console.log("Привет от Un-R");
 
+	console.log("Привет от albert-garipov");
+
+	console.log("Привет от EvgenyShevelev");
+
 }
 
 function main()
