@@ -18,7 +18,7 @@
 	<h1>СТРАНИЦЫ СЛУШАТЕЛЕЙ</h1>
 	<ul>
 		<li><a href="/github/alexanderanchishkin">Александр</a></li>
-		<li><a href="/github/labert-garipov">Альберт</a></li>
+		<li><a href="/github/albert-garipov">Альберт</a></li>
 		<li><a href="/github/artemprovotorov">Артем</a></li>
 
 	</ul>
