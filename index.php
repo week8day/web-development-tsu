@@ -19,6 +19,7 @@
 	<ul>
 		<li><a href="/github/alexanderanchishkin">Александр</a></li>
 		<li><a href="/github/artemprovotorov">Артем</a></li>
+		<li><a href="/github/MrG-Vladimir">Владимир</a></li>
 	</ul>
 	<ul>
 		<li><a href="/github/alexanderanchishkin/web-development-tsu/github/dmitriykhl/index.htm">Дмитрий</a></li>
