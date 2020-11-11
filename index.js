@@ -57,6 +57,8 @@ function sayHello()
 
 	console.log("Привет от Артёма");
 
+	console.log("Привет от Ленара);
+
 	console.log("Привет от Un-R");
 
 	console.log("Привет от EvgenyShevelev");
