@@ -69,6 +69,7 @@ function sayHello()
 
 	console.log("Здесь был я");
 
+    console.log("и я!");
 
 
 	console.log("Привет от albert-garipov");
