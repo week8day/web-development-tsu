@@ -49,7 +49,7 @@ function clickTransit()
 function changeTextSize(newSize)
 {
 	let p = document.querySelector(".abc p");
-	p.style.fontSize = newSize + "px";
+	p.style.fontSize = newSize + "px" + 1;
 }
 
 function main()
