@@ -29,7 +29,7 @@
 		<li><a href="/github/Irina72-creator">Ира)</a></li>
 		<li><a href="/github/marinaveretennikova/index.html">Марина</a></li>
 		<li><a href="/github/elenakolentsova">Елена</a></li>
-
+		<li><a href="/github/Lihoradka/index.html>Мария</a></li>
 		<li><a href="/github/IvanShkunov">Иван</a></li>
 	</ul>
 	<ul>
