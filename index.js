@@ -56,6 +56,8 @@ function sayHello()
 
 	console.log("Привет из Белгорода!");
 
+	console.log("Привет от Ленара);
+
 	console.log("Привет от Un-R");
 
         console.log("Привет от Виктора");
@@ -65,12 +67,21 @@ function sayHello()
 
 	console.log("Привет от EvgenyShevelev");
 
+
 	console.log("Привет из солнечной Чувашии");
 
 
+	console.log("Есть Казанские?))");
+
+	console.log("Привет из солнечной Чувашии");
+
+
+	console.log("Привет из солнечной Чувашии");
+
+	console.log("Привет от Дмитрия");
+
 
 }
-
 function main()
 {
 	sayHello();
