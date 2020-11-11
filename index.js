@@ -53,10 +53,29 @@ function sayHello()
 {
 	//TODO: Передать привет от всех!
 	console.log("Привет от Александра!");
+
+	//OK
+	console.log("Hello World!!!");
+
+
 	console.log("Привет от Un-R");
+
+	console.log("Привет из Белгорода!");
+
+	console.log("Привет от Un-R");
+
 	console.log("Привет от Иры!)");
 =======
+=======
+
+	console.log("Здесь был я");
+
+
+	console.log("Привет от albert-garipov");
+
 	console.log("Привет от EvgenyShevelev");
+
+
 }
 
 function main()
