@@ -37,6 +37,8 @@
 		<li><a href="/github/elenakolentsova">Елена</a></li>
 
 		<li><a href="/github/IvanShkunov">Иван</a></li>
+		<li><a href="/github/DmitriyWW">Дмитрий мл</a></li>
+
 	</ul>
 	<ul>
 		<li><a href="/github/alexanderanchishkin/web-development-tsu/github/dmitriykhl/index.htm">Дмитрий</a></li>
