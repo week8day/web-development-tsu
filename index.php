@@ -38,6 +38,7 @@
 		<li><a href="/github/Lihoradka/index.html>Мария</a></li>
 		<li><a href="/github/IvanShkunov">Иван</a></li>
 		<li><a href="/github/DmitriyWW">Дмитрий мл</a></li>
+		<li><a href="/github/KPolechka">Полина Уфа</a></li>
 
 	</ul>
 	<ul>
