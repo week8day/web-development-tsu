@@ -25,10 +25,23 @@
 		<li><a href="/github/artemprovotorov">Артем</a></li>
 		<li><a href="/github/MrG-Vladimir">Владимир</a></li>
 		<li><a href="/github/AndreevVM">Виталий</a></li>
+
+                <li><a href="/github/viktorsuver">Виктор</a></li>
+	</ul>
+	<ul>
+		<li><a href="/github/alexanderanchishkin/web-development-tsu/github/dmitriykhl/index.htm">Дмитрий</a></li>
+
 		<li><a href="/github/dmitriykhl/index.htm">Дмитрий</a></li>
 		<li><a href="/github/Irina72-creator">Ира)</a></li>
 		<li><a href="/github/marinaveretennikova/index.html">Марина</a></li>
 		<li><a href="/github/elenakolentsova">Елена</a></li>
+
+		<li><a href="/github/IvanShkunov">Иван</a></li>
+	</ul>
+	<ul>
+		<li><a href="/github/alexanderanchishkin/web-development-tsu/github/dmitriykhl/index.htm">Дмитрий</a></li>
+
+
 
 	</ul>
 	<input class="name-field" type="text" placeholder="Введите имя" /><br>
