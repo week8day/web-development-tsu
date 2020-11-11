@@ -21,7 +21,7 @@
 		<li><a href="/github/albert-garipov">Альберт</a></li>
 		<li><a href="/github/andreev/index.html">Form from fcc</a></li>
 		<li><a href="/github/artemprovotorov">Артем</a></li>
-
+		<li><a href="/github/AndreevVM">Виталий</a></li>
 	</ul>
 	<ul>
 		<li><a href="/github/alexanderanchishkin/web-development-tsu/github/dmitriykhl/index.htm">Дмитрий</a></li>
