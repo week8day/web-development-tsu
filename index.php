@@ -19,6 +19,7 @@
 	<ul>
 		<li><a href="/github/alexanderanchishkin">Александр</a></li>
 		<li><a href="/github/artemprovotorov">Артем</a></li>
+		<li><a href="/github/AndreevVM">Виталий</a></li>
 	</ul>
 
 	<input class="name-field" type="text" placeholder="Введите имя" /><br>
