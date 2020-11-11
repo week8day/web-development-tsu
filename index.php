@@ -28,7 +28,9 @@
 		<li><a href="/github/MrG-Vladimir">Владимир</a></li>
 		<li><a href="/github/AndreevVM">Виталий</a></li>
 		<li><a href="/github/dmitriykhl/index.htm">Дмитрий</a></li>
+		<li><a href="/github/marinaveretennikova/index.html">Марина</a></li>
 		<li><a href="/github/elenakolentsova">Елена</a></li>
+
 	</ul>
 	<input class="name-field" type="text" placeholder="Введите имя" /><br>
 	<input class="lastname-field" type="text" placeholder="Введите фамилию" />
