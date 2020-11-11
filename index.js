@@ -56,6 +56,17 @@ function sayHello()
 
 
 
+
+
+	//OK
+	console.log("Hello World!!!");
+
+
+	console.log("Привет от Un-R");
+
+	console.log("Привет из Белгорода!");
+
+
 	console.log("Привет от Un-R");
 
 	console.log("Привет от albert-garipov");
