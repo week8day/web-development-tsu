@@ -60,7 +60,15 @@ function sayHello()
 
 	console.log("Привет от Un-R");
 
+
         console.log("Привет от Виктора");
+
+
+
+	console.log("Привет от Иры из Калининграда!)");
+
+	console.log("Здесь был я");
+
 
 
 	console.log("Привет от albert-garipov");
@@ -71,9 +79,14 @@ function sayHello()
 	console.log("Привет из солнечной Чувашии");
 
 
+
 	console.log("Есть Казанские?))");
 
 	console.log("Привет из солнечной Чувашии");
+
+	console.log("Привет от Артема");
+
+
 
 
 	console.log("Привет из солнечной Чувашии");
