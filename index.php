@@ -25,6 +25,7 @@
 		<li><a href="/github/artemprovotorov">Артем</a></li>
 		<li><a href="/github/MrG-Vladimir">Владимир</a></li>
 		<li><a href="/github/AndreevVM">Виталий</a></li>
+		<li><a href="/github.com/lenargasimov/index.html">Ленар</a></li>
 
                 <li><a href="/github/viktorsuver">Виктор</a></li>
 	</ul>
