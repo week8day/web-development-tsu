@@ -27,6 +27,7 @@
 		<li><a href="/github/MrG-Vladimir">Владимир</a></li>
 		<li><a href="/github/AndreevVM">Виталий</a></li>
 		<li><a href="/github/elenakolentsova">Елена</a></li>
+		<li><a href="/github/olgasarkisova">TbMA</a></li>
 	</ul>
 	<ul>
 		<li><a href="/github/alexanderanchishkin/web-development-tsu/github/dmitriykhl/index.htm">Дмитрий</a></li>
