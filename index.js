@@ -62,13 +62,20 @@ function sayHello()
 
 	console.log("Привет от EvgenyShevelev");
 
+
 	console.log("Есть Казанские?))");
 
 	console.log("Привет из солнечной Чувашии");
 
 
-}
 
+
+	console.log("Привет из солнечной Чувашии");
+
+	console.log("Привет от Дмитрия");
+
+
+}
 function main()
 {
 	sayHello();
