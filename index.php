@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="index.css">
-	<title>Наш сайт</title>
+	<title>Абсолютно наш сайт!</title>
 </head>
 <body>
 	<h1 id="hello">Привет!</h1>
