@@ -29,6 +29,8 @@ function clickTransit()
 	let name = $(".name-field").val();
 	let lastName = $(".lastname-field").val();
 
+	// Это ajax запрос. Его нужно доделать.
+	// TODO: Доделать ajax запрос.
 	$.ajax({
 		url: "http://web-site/echo.php",
 		async: true,
