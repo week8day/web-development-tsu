@@ -63,6 +63,8 @@ function sayHello()
 	console.log("Привет от EvgenyShevelev");
 
 	console.log("Hello from Navka");
+
+	console.log("Привет от Vladimira");
 }
 
 function main()
