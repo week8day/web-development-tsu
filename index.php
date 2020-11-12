@@ -19,6 +19,7 @@
 	<h1>СТРАНИЦЫ СЛУШАТЕЛЕЙ</h1>
 	<ul>
 		<li><a href="/github/alexanderanchishkin">Александр</a></li>
+		<li><a href="/github/oreolka">Александр</a></li>
 		<li><a href="/github/albert-garipov">Альберт</a></li>
 		<li><a href="/github/Un-R">Un-R</a></li>
 		<li><a href="/github/andreev/index.html">Form from fcc</a></li>
