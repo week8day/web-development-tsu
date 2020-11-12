@@ -56,6 +56,11 @@ function sayHello()
 
 
 
+	console.log("Привет от Артёма");
+
+	console.log("Привет от Un-R");
+
+	console.log("Привет от EvgenyShevelev");
 
 
 	//OK
@@ -68,6 +73,9 @@ function sayHello()
 
 
 	console.log("Привет от Un-R");
+
+	console.log("Здесь был я");
+
 
 	console.log("Привет от albert-garipov");
 
